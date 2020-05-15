@@ -2,13 +2,13 @@
 
 Collected data is for Human Activity Recognition Using Smartphones. On this data cleaning opertation is done to make it tidy.
 
-# Files
+## Files
 ----------
 
-# 1. CodeBook.md
+## 1. CodeBook.md
 It decribes the variables, data, methods and functions which are used to get clean and tidy data.
 
-# 2. run_analysis.R
+## 2. run_analysis.R
 It is a script file containing the lines of code to get the clean and tidy data. As the order ginen in question, same is performed to reach the goal. There order is described below:
 (I)   Merges the training and the test sets to create one data set.
 (II)  Extracts only the measurements on the mean and standard deviation for each measurement.
