@@ -1,4 +1,4 @@
-# It is the description of code written in run_analysis.R
+## It is the description of code written in run_analysis.R
 
 1. First of all zip file is downloaded using download.file().
 
