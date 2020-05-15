@@ -1,11 +1,11 @@
-## It is the description of code written in run_analysis.R
+# It is the description of code written in run_analysis.R
 
 1. First of all zip file is downloaded using download.file().
 
 2. This file is unzipped using unzip().
 
 3. Data is stored in variables by reading through read.table().
-   # variable is on left hant side which is indicated below:
+ ### variable is on left hant side which is indicated below:
 
      activity = UCI HAR Dataset/activity_labels.txt
      features = UCI HAR Dataset/features.txt
