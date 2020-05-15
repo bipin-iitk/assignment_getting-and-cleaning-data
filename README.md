@@ -30,9 +30,9 @@
 
 7. Appropirate column name is assigned as following:
 
-(idy.Data)[2] = activity
-Acc = Accelerometer
-Gyro = Gyroscope
+(idy.Data)[2] = activity;
+Acc = Accelerometer;
+Gyro = Gyroscope;
 and so on.....
 
 
